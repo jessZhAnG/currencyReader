@@ -1,6 +1,6 @@
 ATTN:
 
-Usage:   Python reader $1
+Usage:   Python reader.py $1
 
 
 where $1 is the currency
